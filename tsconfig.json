@@ -1,0 +1,9 @@
+{
+  "include": ["src/**/*"],
+  "exclude": ["dist/**/*"],
+  "compilerOptions": {
+    "allowJs": true,
+    "declaration": true,
+    "emitDeclarationOnly": true
+  }
+}

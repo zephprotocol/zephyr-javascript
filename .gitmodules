@@ -1,0 +1,4 @@
+[submodule "external/zephyr-cpp"]
+	path = external/zephyr-cpp
+	url = https://github.com/ZephyrProtocol/zephyr-cpp.git
+	ignore = dirty
